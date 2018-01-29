@@ -1,4 +1,4 @@
-# Hello-Wolrd
+# Hello-World
 
 The Bitcoin Center is a high-tech company.
 
